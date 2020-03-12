@@ -6,6 +6,4 @@ import com.sysone.model.Persona;
 
 public interface PersonaRepository extends CrudRepository<Persona, Long>{
 	
-	
-
 }
